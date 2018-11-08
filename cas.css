@@ -30,7 +30,11 @@ header {
 	color: black;
 	text-decoration: none;
 	font-weight: bold;
+  padding-top : 20px;
 
+}
+.Navigation {
+  margin:10px 0 0 0;
 }
 
 .SignUp {
@@ -42,9 +46,7 @@ header {
 		top:0px;
     float:left;
 }
-.Navigation a{
-  margin: 10px 0 0 0 ;
-}
+
 .SignIn {
     padding:6px 10px;
 		display: inline;
@@ -89,8 +91,12 @@ header {
 
   }
 #repo_bt {
-  float:right
-
+  float: right;
+  width:95px;
+  height:25px;
+  border-radius: 3px;
+  border: 1px solid #DCDCDC;
+  margin: 10px;
 }
 .Repository_Head {
   margin:0 400px 0 400px;
