@@ -1,0 +1,97 @@
+
+header {
+	background-color: lightgray;
+	width:100%;
+	height: 50px;
+
+}
+.head_info {
+  margin: 0 400px 0 400px;
+}
+.logo svg {
+	width: 100px;
+	height:50px;
+	padding: 0 10px 0 10px;
+
+	top:0px;
+	float: left;
+}
+
+.Search input{
+	height: 20px;
+	width: 350px;
+	margin: 15px 10px 15px 0;
+	border: 1px solid #D6D6D6;
+	background-color: white;
+	top:0;
+}
+
+.Navigation a{
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+.SignUp {
+	  padding:6px 10px;
+    color: white;
+    background-color: green;
+		display: inline;
+    margin: 10px 0 0 0 ;
+		top:0px;
+    float:left;
+}
+.Navigation a{
+  margin: 10px 0 0 0 ;
+}
+.SignIn {
+    padding:6px 10px;
+		display: inline;
+    margin: 10px 0 0 0 ;
+    float:left;
+}
+
+.footer {
+   bottom: 0;
+	 position:absolute;
+	 left:400px;
+	 right:400px;
+
+}
+.foot_right_Info a{
+	float:right;
+}
+.mark_git {
+	margin: 0 0 0 135px;
+}
+.left_foot a{
+	text-decoration: none;
+	color : #0366d6;
+	padding: 2px 2px;
+	font-weight: bold;
+
+}
+.right_foot a{
+	text-decoration: none;
+	color : #0366d6;
+	padding: 3px 3px;
+	font-weight: bold;
+
+}
+.bookmark {
+  float:left;
+}
+.repo {
+  float:left;
+  color: #0366d6;
+	font-size: 28px;
+
+  }
+#repo_bt {
+  float:right
+
+}
+.Repository_Head {
+  margin:0 400px 0 400px;
+}
